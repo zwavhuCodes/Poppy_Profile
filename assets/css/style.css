@@ -406,15 +406,15 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #ffdf7e;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
-  background-color: #000000;
+  background-color: #baa432;
   color: #fff;
-  border-color: #cde1f8;
+  border-color: #ffffff;
 }
 
 .button-big {
