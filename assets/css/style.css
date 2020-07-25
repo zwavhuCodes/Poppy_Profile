@@ -33,11 +33,11 @@ body {
 /*  background-color: #fcfcfc;*/
 /*}*/
 
-.carousel-item .sr-only {
-    width:100%; height:50px;
-    justify-content: center;
-    color: black;
-}
+/*.carousel-item .sr-only {*/
+/*    !*width:100%; height:50px;*!*/
+/*    !*justify-content: center;*!*/
+/*    color: black;*/
+/*}*/
 
 h1,
 h2,
