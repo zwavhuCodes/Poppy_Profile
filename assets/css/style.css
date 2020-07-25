@@ -384,7 +384,8 @@ a:hover {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  /*background: #fff;*/
+  background-image: url(assets/img/main3.JPEG);
 }
 
 #preloader:before {
