@@ -47,9 +47,8 @@ h5,
 h6 {
   color: #1e1e1e;
   /*font-family: 'Poiret One', sans-serif;*/
-  font-family: "Poiret One", sans-serif;
-  /*font-family: "Raleway", sans-serif;*/
-
+  font-family: "Poiret One", serif;
+  font-weight: normal;
 }
 
 a {
