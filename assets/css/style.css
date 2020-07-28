@@ -1491,3 +1491,8 @@ footer .credits a {
 .profile-tile{
   height: 215px; width: 350px; overflow: hidden;
 }
+.gallery-tile{
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
