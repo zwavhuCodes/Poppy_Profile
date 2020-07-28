@@ -142,6 +142,8 @@
       aos_init();
     });
 
+
+
     // Initiate venobox (lightbox feature used in portofilo)
     $(document).ready(function() {
       $('.venobox').venobox();
