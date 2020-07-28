@@ -1487,3 +1487,7 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.profile-tile{
+  height: 215px; width: 350px; overflow: hidden;
+}
