@@ -1489,12 +1489,23 @@ footer .credits a {
 }
 
 .profile-tile{
-  height: 215px; width: 350px; overflow: hidden;
+  overflow: hidden;
+  width: 100%;
+  height:100%;
+  vertical-align: middle;
+  object-fit: cover;
 }
+
 .gallery-tile{
   width: 100%;
   height: 600px;
   overflow: hidden;
+}
+
+
+.vbox-container img {
+  max-width: 100%;
+  height: 600px;
 }
 
 @media (max-width: 768px) {
@@ -1502,6 +1513,11 @@ footer .credits a {
     width: 100%;
     height: 200px;
     overflow: hidden;
+  }
+
+  .vbox-container img {
+    max-width: 100%;
+    height: auto;
   }
 
 }
