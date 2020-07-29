@@ -1540,14 +1540,14 @@ footer .credits a {
 
 
 .sponsor-tile img {
-  width: 95%;
-  height: 700px;
-  object-fit: cover;
-  vertical-align: middle;
-  border-style: none;
-  margin: auto;
-  -webkit-filter: drop-shadow(7px 7px 7px #666666);
-  filter: drop-shadow(7px 7px 7px #666666);
+  /*width: 95%;*/
+  height: 600px;
+  /*object-fit: cover;*/
+  /*vertical-align: middle;*/
+  /*border-style: none;*/
+  /*margin: auto;*/
+  /*-webkit-filter: drop-shadow(7px 7px 7px #666666);*/
+  /*filter: drop-shadow(7px 7px 7px #666666);*/
 }
 
 .vbox-container img {
@@ -1580,14 +1580,14 @@ footer .credits a {
   }
 
   .sponsor-tile img {
-    width: 80%;
+    /*width: 86%;*/
     height: 200px;
-    object-fit: cover;
-    vertical-align: middle;
-    border-style: none;
-    margin: auto;
-    -webkit-filter: drop-shadow(7px 7px 7px #666666);
-    filter: drop-shadow(7px 7px 7px #666666);
+    /*object-fit: cover;*/
+    /*vertical-align: middle;*/
+    /*border-style: none;*/
+    /*margin: auto;*/
+    /*-webkit-filter: drop-shadow(7px 7px 7px #666666);*/
+    /*filter: drop-shadow(7px 7px 7px #666666);*/
   }
 
   .vbox-container img {
