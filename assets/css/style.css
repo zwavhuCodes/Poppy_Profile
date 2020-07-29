@@ -1512,12 +1512,14 @@ footer .credits a {
 /*}*/
 
 .gallery-tile img {
-  width: auto;
-  height: 600px;
-  object-fit: cover;
-  vertical-align: middle;
-  border-style: none;
-  margin: auto;
+    width: auto;
+    height: 600px;
+    object-fit: cover;
+    vertical-align: middle;
+    border-style: none;
+    margin: auto;
+    -webkit-filter: drop-shadow(7px 7px 7px #666666);
+    filter: drop-shadow(7px 7px 7px #666666);
 }
 
 
@@ -1526,24 +1528,6 @@ footer .credits a {
   height: 600px;
 }
 
-/*.carousel-item{*/
-/*  text-align: center;*/
-/*  float: left;*/
-/*  width: 100%;*/
-/*  position: relative;*/
-/*  overflow: hidden;*/
-/*  padding: 20px 4%;*/
-/*}*/
-
-/*.gallery-tile{*/
-/*  text-align: center;*/
-/*  float: left;*/
-/*  width: 100%;*/
-/*  position: relative;*/
-/*  overflow: hidden;*/
-/*  padding: 20px 4%;*/
-/*}*/
-
 @media (max-width: 768px) {
   .gallery-tile{
     width: 100%;
@@ -1551,13 +1535,15 @@ footer .credits a {
     overflow: hidden;
   }
 
-    .gallery-tile img {
-        width: auto;
-        height: 200px;
-        object-fit: cover;
-        vertical-align: middle;
-        border-style: none;
-        margin: auto;
+  .gallery-tile img {
+      width: auto;
+      height: 200px;
+      object-fit: cover;
+      vertical-align: middle;
+      border-style: none;
+      margin: auto;
+     -webkit-filter: drop-shadow(5px 5px 5px #666666);
+    filter: drop-shadow(5px 5px 5px #666666);
     }
 
   .sponsor-tile {
