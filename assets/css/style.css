@@ -1467,7 +1467,8 @@ h1 .intro .intro-title {
 
 .page-item{
   border-radius: 20px;
-  padding-right: 30px;
+  padding-right: 10px;
+  margin: auto;
 }
 
 /*--------------------------------------------------------------
