@@ -1471,6 +1471,12 @@ h1 .intro .intro-title {
   margin: auto;
 }
 
+.logo img{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
@@ -1534,8 +1540,8 @@ footer .credits a {
 
 
 .sponsor-tile img {
-  width: 80%;
-  height: 600px;
+  width: 95%;
+  height: 700px;
   object-fit: cover;
   vertical-align: middle;
   border-style: none;
