@@ -1495,19 +1495,21 @@ footer .credits a {
 .sponsor-tile{
   overflow: hidden;
   width: 100%;
-  height: 700px;
+  height: 715px;
+  object-fit: cover;
+
 }
 
-/*.gallery-tile{*/
-/*  !*width: 100%;*!*/
-/*  !*height: 600px;*!*/
-/*  !*overflow: hidden;*!*/
-/*  overflow: hidden;*/
-/*  max-width: 100%;*/
-/*  height:100%;*/
-/*  vertical-align: middle;*/
-/*  object-fit: cover;*/
-/*}*/
+.gallery-tile{
+  /*width: 100%;*/
+  /*height: 600px;*/
+  /*overflow: hidden;*/
+  overflow: hidden;
+  max-width: 100%;
+  height:600px;
+  vertical-align: middle;
+  object-fit: cover;
+}
 
 /*.carousel-inner > .item {*/
 /*  height: 400px;*/
