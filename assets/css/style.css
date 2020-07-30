@@ -1528,8 +1528,8 @@ footer .credits a {
 /*}*/
 
 .gallery-tile img {
-    width: auto;
-    height: 600px;
+    width: 80%;
+    height: 800px;
     object-fit: cover;
     vertical-align: middle;
     border-style: none;
